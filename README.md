@@ -1,9 +1,13 @@
 Digital Literacy Project
 
 Name: Anwesha Nandi
+<br>
 Reg No.: 25BCE11262
+<br>
 Branch: CSE(CORE)
+<br>
 Year: 1st Year B.Tech
+<br>
 Course: CSE0001 – Digital Literacy
 
 📌 Project Overview
