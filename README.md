@@ -22,7 +22,7 @@ Safe internet practices
 Useful tools for students
 The design focuses on simple visuals and easy understanding
 <br>
-📂 Folder: task-1-presentation
+📂 Folder: task-1-presentation/
 
 🌐 Task 2 – Digital Portfolio
 Created and updated profiles on:
